@@ -1,0 +1,15 @@
+C:\HomeTaskC#4\Task25_vStepen\bin\Debug\net7.0\Task25_vStepen.exe
+C:\HomeTaskC#4\Task25_vStepen\bin\Debug\net7.0\Task25_vStepen.deps.json
+C:\HomeTaskC#4\Task25_vStepen\bin\Debug\net7.0\Task25_vStepen.runtimeconfig.json
+C:\HomeTaskC#4\Task25_vStepen\bin\Debug\net7.0\Task25_vStepen.dll
+C:\HomeTaskC#4\Task25_vStepen\bin\Debug\net7.0\Task25_vStepen.pdb
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\Task25_vStepen.csproj.AssemblyReference.cache
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\Task25_vStepen.GeneratedMSBuildEditorConfig.editorconfig
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\Task25_vStepen.AssemblyInfoInputs.cache
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\Task25_vStepen.AssemblyInfo.cs
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\Task25_vStepen.csproj.CoreCompileInputs.cache
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\Task25_vStepen.dll
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\refint\Task25_vStepen.dll
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\Task25_vStepen.pdb
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\Task25_vStepen.genruntimeconfig.cache
+C:\HomeTaskC#4\Task25_vStepen\obj\Debug\net7.0\ref\Task25_vStepen.dll
